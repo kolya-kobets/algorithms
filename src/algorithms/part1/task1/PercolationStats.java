@@ -1,4 +1,4 @@
-//package algorithms.part1.task1;
+package algorithms.part1.task1;
 
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;

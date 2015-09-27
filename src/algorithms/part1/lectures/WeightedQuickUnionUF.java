@@ -1,4 +1,4 @@
-package algorithms.part1.lecture1;
+package algorithms.part1.lectures;
 
 public class WeightedQuickUnionUF {
     private int[] id = null;
